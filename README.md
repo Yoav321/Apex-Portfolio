@@ -1,14 +1,14 @@
-# Apex Portfolio - [Student Name]
+# Apex Portfolio - Yoav Bierkatz
 
 This repository contains my student portfolio for the **Apex [Creative Computing / Cybersecurity] Pathway**. The portfolio features artifacts that demonstrate my proficiency with the technical and professional skills I built in the program.
 
 ## Portfolio
 
-**[Open Portfolio](https://USERNAME.github.io/REPOSITORY-NAME/)**
+**[Open Portfolio](https://Yoav321.github.io/Apex-Portfolio/)**
 
 ## About Me
 
-I am a student at Apex in the Boulder Valley School District, and I will graduate in [grad year]. After high school, I plan to [plans]. I am interested in [intersests]
+I am a student at Apex in the Boulder Valley School District, and I will graduate in 2028. After high school, I plan to go to college and get internships so i can get a good job. I am interested in Computer Science and would love to work for a game company and help them improve their game to what the community actually wants. If that doesn't work out I would like to go into Cybersecurity and worst case scenario it would be fun to become a contractor and help build and fix things. Some of my interests include gaming with friends, basketball, building things, and working with computers.
 
 ## Portfolio Contents
 
@@ -37,6 +37,6 @@ This repository does not include:
 
 ## Contact
 
-- **GitHub:** [@USERNAME](https://github.com/USERNAME)
+- **GitHub:** @Yoav321 (https://github.com/Yoav321)
 - **LinkedIn:** [Optional link]
-- **Email:** [Optional school-approved or professional email]
+- **Email:** ydbierkatz01@bvsd.org
