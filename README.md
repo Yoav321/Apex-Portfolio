@@ -13,12 +13,12 @@ I am a student at Apex in the Boulder Valley School District, and I will graduat
 ## Portfolio Contents
 
 - **Home:** Introduction and featured work
-- **Resume:** Education, skills, experience, and certifications
+- **Resume:** Education, skills, experience, and certifications: I have the Tech + certification from CompTIA. I have also completed Security + but didn't take the test. I have experience making pictures in JS. I also have experience in working in a team under pressure in an attempt to find issues and solve puzzles. I also have experience in Cybersecurity and have proven these skills through labs and competitions against other groups racing to crack the puzzle.
 - **Artifacts:** Selected evidence of my technical and professional learning
 
 ## Featured Skills
 
-- [Skill]
+- Can do most repairs on standard issue BVSD devices
 - [Skill]
 - [Skill]
 - [Skill]
