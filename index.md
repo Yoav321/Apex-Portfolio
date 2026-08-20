@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# [Student Name]
+# **Yoav Bierkatz**
 
 ## Apex [Creative Computing / Cybersecurity] Portfolio
 
