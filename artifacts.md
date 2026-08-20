@@ -5,7 +5,7 @@ title: Artifacts
 
 # Portfolio Artifacts
 
-This page contains selected examples of my work from the Apex [Creative Computing / Cybersecurity] Pathway.
+This page contains selected examples of my work from the Apex Creative Computing Pathway.
 
 Each artifact demonstrates technical skills, problem-solving, communication, collaboration, or growth. Click an artifact name to view the full artifact page.
 
