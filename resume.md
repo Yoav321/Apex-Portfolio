@@ -3,7 +3,7 @@ layout: default
 title: Resume
 ---
 
-# [Student Name]
+# Yoav Bierkatz
 
 [City, State]  
 [School-approved or professional email]  
