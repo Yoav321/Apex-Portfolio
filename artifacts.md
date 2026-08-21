@@ -15,17 +15,17 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### CS-Lab
-<p class="artifact-meta"> Lab | August 2026</p>
+### CS-Lab Workstation
+<p class="artifact-meta"> Image | August 2026</p>
 
 [Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
 
 **Skills demonstrated: I was able to collaborate with fellow students to create our workstations. I was also able to set up my own workstation and understand what each component does. I was also showing responsibility because we were handling expensive equipment so we had to be responsible in the way that we interacted with the equipment. I was also able to show reliability because I set up three different workstations and they all worked with no issues showing that I can be relied on to do things.**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Responsibility and Reliability</span>
+<span class="skill-tag">Collaboration</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/CS Lab/)
 
 </div>
 
