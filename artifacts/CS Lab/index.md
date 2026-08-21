@@ -1,36 +1,23 @@
 ---
 layout: default
-title: Artifact Name
+title:  CS Lab Workstation
 ---
 
-# Artifact Name
+# CS Lab Workstation
 
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+<p class="artifact-meta">Image |August 2026</p>
 
 ## Summary
 
 [Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
 
-**Project:** [Project Name]
+**Project:** CS Lab Launch
 
 **My role:** [Briefly describe your individual contribution, especially if this was collaborative work.]
 
 ## The Artifact
 
-[Embed or link the actual artifact here.]
-
-Examples:
-
-- Image or screenshot
-- PDF
-- GitHub repository
-- Program or interactive experience
-- Video demonstration
-- Network diagram
-- Technical document
-- Prototype photos
-
-![Description of artifact](ARTIFACT-IMAGE.png)
+!Images of workstations 2,15,and 17(IMG_2779 (1).jpeg)
 
 [View the full artifact](LINK-TO-ARTIFACT)
 
