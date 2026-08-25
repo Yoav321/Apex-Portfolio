@@ -1,6 +1,4 @@
-        ---
-layout: default
-title:  CS Lab Workstation
+
 ---
 
 # CS Lab Workstation
@@ -9,11 +7,11 @@ title:  CS Lab Workstation
 
 ## Summary
 
-[Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
+We set up the Lab with our workstations.
 
 **Project:** CS Lab Launch
 
-**My role:** [Briefly describe your individual contribution, especially if this was collaborative work.]
+**My role:** I was able to collaborate with fellow students to create our workstations. I was also able to set up my own workstation and understand what each component does. I was also showing responsibility because we were handling expensive equipment so we had to be responsible in the way that we interacted with the equipment. I was also able to show reliability because I set up three different workstations and they all worked with no issues showing that I can be relied on to do things.
 
 ## The Artifact
 <img src="Station2.jpg" width="512">
@@ -26,27 +24,13 @@ title:  CS Lab Workstation
 
 ## Skills Demonstrated
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
-
-## Tools and Technologies
-
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
-- [Tool, language, platform, or technology]
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">Responsibility</span>
+<span class="skill-tag">Reliability</span>
 
 ## Implementation
 
-[Explain how you created this artifact. Describe the major decisions, technical work, problem-solving, testing, troubleshooting, or revisions involved.]
-
-[Include process images if they help explain your work.]
-![Describe image](PROCESS-IMAGE.png)
-
-
-## What I Learned
-
-[Describe what you learned technically or professionally and what you would do differently next time.]
+I created this artifact by unboxing the parts and assemebling them together to create the workstations.
 
 ---
 
