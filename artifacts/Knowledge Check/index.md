@@ -5,7 +5,7 @@ title: Knowledge Check Number Conversions
 
 # Knowledge Check Number Conversions
 
-<p class="artifact-meta">Knowledge Check | [August 2026]</p>
+<p class="artifact-meta">Knowledge Check | August 2026</p>
 
 ## Summary
 
@@ -25,9 +25,9 @@ The image is the score that I got from taking the Number Conversions Knowledge C
 
 ## Skills Demonstrated
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Understanding of binary,</span>
+<span class="skill-tag">Understanding of Hex,</span>
+<span class="skill-tag">Understanding of conversions.</span>
 
 ## What I Learned
 

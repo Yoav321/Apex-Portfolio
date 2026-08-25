@@ -3,7 +3,7 @@
 
 # CS Lab Workstation
 
-<p class="artifact-meta">Image |August 2026</p>
+<p class="artifact-meta">Image | August 2026</p>
 
 ## Summary
 
@@ -30,7 +30,7 @@ We set up the Lab with our workstations.
 
 ## Implementation
 
-I created this artifact by unboxing the parts and assemebling them together to create the workstations.
+I created this artifact by unboxing the parts and assembling them together to create the workstations.
 
 ---
 
