@@ -1,4 +1,4 @@
----
+        ---
 layout: default
 title:  CS Lab Workstation
 ---
@@ -17,7 +17,7 @@ title:  CS Lab Workstation
 
 ## The Artifact
 
-!Images of workstations 2,15,and 17(IMG_2779 (1).jpeg)
+![Workstation 2](Station2.jpg)
 
 [View the full artifact](LINK-TO-ARTIFACT)
 
