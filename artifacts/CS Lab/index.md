@@ -16,8 +16,11 @@ title:  CS Lab Workstation
 **My role:** [Briefly describe your individual contribution, especially if this was collaborative work.]
 
 ## The Artifact
+<img src="Station2.jpg" width="512">
 
-![Workstation 2](Station2.jpg)
+<img src="Station15.jpg" width="512">
+
+<img src="Station17.jpg" width="512">
 
 [View the full artifact](LINK-TO-ARTIFACT)
 
