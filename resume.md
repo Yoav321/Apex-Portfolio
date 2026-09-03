@@ -5,16 +5,16 @@ title: Resume
 
 # Yoav Bierkatz
 
-[City, State]  
-[School-approved or professional email]  
-[GitHub profile link]  
-[Portfolio and/or LinkedIn link]
+[Superior, Colorado]  
+Email : yoav.bierkatz@gmail.com  
+[GitHub profile link](https://github.com/Yoav321)  
+[Portfolio link](https://github.com/Yoav321/Apex-Portfolio)
 
 [Download a PDF version](assets/documents/firstname-lastname-resume.pdf)
 
 ## Professional Summary
 
-**[Creative Computing / Cybersecurity]** student building experience in **[programming, networking, cybersecurity, system administration, interactive technology, physical computing, or another area]**. Demonstrates strengths in **[problem-solving, technical communication, collaboration, troubleshooting, design, or another strength]**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
+**Creative Computing** student building experience in **programming, networking, interactive technology, physical computing, or another area**. Demonstrates strengths in **problem-solving, technical communication, collaboration, troubleshooting, design, or another strength**. Interested in pursuing **[career, college major, certification, internship, or other goal]**.
 
 ## Skills
 
@@ -31,23 +31,25 @@ title: Resume
 - **Tools:** [Wireshark, Packet Tracer, Linux command line, virtualization platform]
 
 ### Language Skills
-- World language and proficiency 
+- English, adept 
+- Hebrew, adept
+- Spanish, accomplished 
 
 > Delete categories that do not apply. Add specific skills only when you can explain or demonstrate them.
 
 
 ## Selected Projects
 
-### [Project Title]
+### Shevet Sheleg Equipment Ticketing System
 
-[Month Year]  
+August 2026  
 [Project link]
 
-- Created [product, program, system, report, investigation, or experience].
-- Used [tools, languages, hardware, or methods].
-- Addressed [problem, audience need, or project requirement].
-- Tested or evaluated the project by [testing method].
-- Documented [process, findings, configuration, or design decisions].
+- Created a ticket system for the troops storage system
+- Used Claude
+- Addressed the issue of the request method for equipment. 
+- Tested or evaluated the project by stress testing and making sure that it works across multiple devices.
+- Documented many quality of life changes for the counselor and the head of storage.
 
 ### [Project Title]
 
@@ -70,59 +72,65 @@ title: Resume
 
 ## Certifications
 
+- Tech+, CompTIA, 2024
+- PCEP, Expected December 2026
 - [Certification or credential], [Issuing organization], [Year]
-- [Certification or credential], [Issuing organization], [Year]
-- [Certification in progress], Expected [Month Year]
-
-Delete this section until you have a certification, credential, or certification currently in progress.
 
 ## Experience
 
-### [Job, Internship, Volunteer Role]
+### Staff In Training / Site Tech
 
-[Organization], [City, State]  
-[Month Year]–[Month Year or Present]
+Shwayder, Mt. Blue Sky, and Denver Colorado  
+May 2026–End of June 2026
 
-- [Begin with an action verb and explain a responsibility or accomplishment.]
-- [Include technical tools, customer-service work, or measurable results when possible.]
-- [Describe how you solved problems, supported users, or contributed to a team.]
+- Staff in training, my job was to help make sure that the technology was working 
 
-### [Job, Internship, Volunteer Role]
+### Counselor In Training
 
-[Organization], [City, State]  
-[Month Year]–[Month Year or Present]
+Rocky Mountain Day Camp, Superior, Colorado
+[Summers of 2022-2024]
+- Counselor in training and helping make sure that the campers are alive and well.
 
-- [Responsibility or accomplishment]
-- [Responsibility or accomplishment]
-- [Responsibility or accomplishment]
 
 ## Education
 
-### [Home High School Name]
+### Monarch High School
 
-[City, State]  
-Expected graduation: [Month Year]
+Louisville, Colorado
 
-### Apex [Creative Computing / Cybersecurity] Pathway
+Expected graduation: May 2028
 
-[Month Year]–Present
+### Apex Creative Computing Pathway
+
+August 2026– May 2027
 
 Relevant coursework:
 
-- [Course title]
-- [Course title]
-- [Course title]
-- [Course title]
+- Game Design 
+- Intro to Programming: Python
+- Programming Microprocess 
+
+Semester 2
+- Game Design
+- Computer Science 1 C++
+- Public Speaking
 
 College credit or concurrent-enrollment coursework:
 
-- [College course code and title]
-- [College course code and title]
+- Intro to programming: Python
+- Game Design
+- Computer Science 1 C++
+- AP World History
+- AP Cybersecurity
+- AP Language Composition
+- ADV PreCalculus 
+
+
 
 ## Leadership and Activities
 
-- **[Organization or activity]:** [Role and brief description]
-- **[Organization or activity]:** [Role and brief description]
+- **TSA:** I was part of a team that created a board game that we use and presented to judges at a national conference. 
+- **NHS:** My role is to help other students succeed in their goals and their classes.
 - **[Competition, club, or service activity]:** [Participation or accomplishment]
 
 ## Awards and Recognition
