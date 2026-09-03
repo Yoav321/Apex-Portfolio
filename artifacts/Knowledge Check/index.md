@@ -9,7 +9,7 @@ title: Knowledge Check Number Conversions
 
 ## Summary
 
-This artifact is a test of my knowledge as a student and my ability to convert numbers. We specifically focused on converting numbers from base 10 to binary, and Hexadecimal and from binary to Hex ect.. The context in which it is created is the fact the in the future we will be creating a text adventure experience it should know how computers store and read information. The larger project behind this Knowledge Check is the text adveture experience that we will be making later in the year.
+This artifact is a test of my knowledge as a student and my ability to convert numbers. We specifically focused on converting numbers from base 10 to binary, and Hexadecimal and from binary to Hex ect.. The context in which it is created is the fact the in the future we will be creating a text adventure experience it should know how computers store and read information. The larger project behind this Knowledge Check is the text adventure experience that we will be making later in the year.
 
 **Project:** Number Conversions Knowledge Check
 
