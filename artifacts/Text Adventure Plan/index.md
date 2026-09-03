@@ -4,11 +4,11 @@ Text Adventure Plan
 
 # Text Adventure Plan
 
-<p class="artifact-meta"> Text adventure | September 2026</p>
+<p class="artifact-meta"> PDF file | September 2026</p>
 
 ## Summary
 
-This artifact is a interactive text adventure. The context in which it was created was to test our knowledge of python and see if we could actually make and develop games and not just practices. 
+This artifact is a plan for a interactive text adventure. The context in which it was created was to test our knowledge of python and see if we could actually make and develop games and not just practices. 
 
 **Project:** Red or Blue Pill
 
@@ -24,9 +24,9 @@ This artifact is a interactive text adventure. The context in which it was creat
 
 ## Skills Demonstrated
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Understanding in the use of more than one function, </span>
+<span class="skill-tag">understanding in the use of basic python commands, </span>
+<span class="skill-tag">and the ability to create ideas and implement them when needed.</span>
 
 ## Tools and Technologies
 
