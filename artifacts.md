@@ -18,9 +18,9 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 ### CS-Lab Workstation
 <p class="artifact-meta"> Image | August 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+ I was able to collaborate with fellow students to create our workstations. I was also able to set up my own workstation and understand what each component does. I was also showing responsibility because we were handling expensive equipment so we had to be responsible in the way that we interacted with the equipment. I was also able to show reliability because I set up three different workstations and they all worked with no issues showing that I can be relied on to do things.
 
-**Skills demonstrated: I was able to collaborate with fellow students to create our workstations. I was also able to set up my own workstation and understand what each component does. I was also showing responsibility because we were handling expensive equipment so we had to be responsible in the way that we interacted with the equipment. I was also able to show reliability because I set up three different workstations and they all worked with no issues showing that I can be relied on to do things.**
+**Skills demonstrated:**
 
 <span class="skill-tag">Responsibility and Reliability</span>
 <span class="skill-tag">Collaboration</span>
@@ -31,17 +31,18 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Red or Blue Pill text adventure
+<p class="artifact-meta">text adventure | September 2026</p>
 
+I created an interactive text adventure where the user has to choose between getting revenge or forgiving their best friend. The user starts in a burning house and has to remember things to progress in the story. 
 [Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Collaboration with others for the play testing, </span>
+<span class="skill-tag">understanding of functions in python.</span>
 
-[View Artifact](artifacts/Text Adventure/)
+[View Artifact](artifacts/Text Adventure Code/)
 
 </div>
 
