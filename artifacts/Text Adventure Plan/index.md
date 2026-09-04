@@ -8,7 +8,7 @@ Text Adventure Plan
 
 ## Summary
 
-This artifact is a plan for a interactive text adventure. The context in which it was created was to test our knowledge of python and see if we could actually make and develop games and not just practices. 
+This artifact is a plan for a interactive text adventure. The context in which it was created was to test our knowledge of python and see if we could actually make and develop games and not just practices. It was also created to help us create the actual game.
 
 **Project:** Red or Blue Pill
 

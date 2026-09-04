@@ -41,7 +41,7 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Text Adventure/)
 
 </div>
 
