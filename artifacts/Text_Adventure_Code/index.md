@@ -5,7 +5,7 @@ title: Red or Blue Pill
 
 # Red or Blue Pill
 
-<p class="artifact-meta"> Code, text adventure | September 2026 </p>
+<p class="artifact-meta"> Code | September 2026 </p>
 
 ## Summary
 

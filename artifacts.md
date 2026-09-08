@@ -25,14 +25,14 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 <span class="skill-tag">Responsibility and Reliability</span>
 <span class="skill-tag">Collaboration</span>
 
-[View Artifact](artifacts/CS Lab/)
+[View Artifact](artifacts/CS_Lab/)
 
 </div>
 
 <div class="artifact-card" markdown="1">
 
 ### Red or Blue Pill text adventure
-<p class="artifact-meta">text adventure | September 2026</p>
+<p class="artifact-meta"> Code | September 2026</p>
 
 I created an interactive text adventure where the user has to choose between getting revenge or forgiving their best friend. The user starts in a burning house and has to remember things to progress in the story. 
 
@@ -41,7 +41,7 @@ I created an interactive text adventure where the user has to choose between get
 <span class="skill-tag">Collaboration with others for the play testing, </span>
 <span class="skill-tag">understanding of functions in python.</span>
 
-[View Artifact](artifacts/Text Adventure Code/)
+[View Artifact](artifacts/Text_Adventure_Code/)
 
 </div>
 
