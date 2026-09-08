@@ -21,8 +21,9 @@ This artifact is the actual game for the text adventure. the context in which it
 
 ## Skills Demonstrated
 
-<span class="skill-tag">Collaboration with others for the play testing, </span>
-<span class="skill-tag">understanding of functions. </span>
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">Conditionals</span>
+<span class="skill-tag">Functions</span>
 
 ## Implementation
 
