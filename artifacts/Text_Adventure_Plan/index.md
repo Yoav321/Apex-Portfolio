@@ -19,7 +19,9 @@ This artifact is a plan for a interactive text adventure. The context in which i
 
 
 
-![This is the upper section of the code for the text adventure](code.png)
+![This is the flow chart for the text adventure](flow_chart.png)
+
+[This is the planing document](Plan%20_doc.pdf)
 
 [View the full artifact](https://github.com/Yoav321/Red-or-Blue-pill)
 

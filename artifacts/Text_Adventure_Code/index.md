@@ -17,6 +17,8 @@ This artifact is the actual game for the text adventure. the context in which it
 
 ## The Artifact
 
+![This is the upper section of the code for the text adventure](code.png)
+
 [View the full artifact](https://github.com/Yoav321/Red-or-Blue-pill)
 
 ## Skills Demonstrated
