@@ -38,8 +38,10 @@ I created an interactive text adventure where the user has to choose between get
 
 **Skills demonstrated:**
 
-<span class="skill-tag">Collaboration with others for the play testing, </span>
-<span class="skill-tag">understanding of functions in python.</span>
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">Conditionals</span>
+<span class="skill-tag">Functions</span>
+
 
 [View Artifact](artifacts/Text_Adventure_Code/)
 
@@ -47,17 +49,17 @@ I created an interactive text adventure where the user has to choose between get
 
 <div class="artifact-card" markdown="1">
 
-### [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+### Red or Blue Pill Plan
+<p class="artifact-meta"> PDF | September 2026 </p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+This artifact is a plan for a interactive text adventure. The context in which it was created was to test our knowledge of python and see if we could actually make and develop games and not just practices. It was also created to help us create the actual game.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Flow Charts</span>
+<span class="skill-tag">Concept development</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Text_Adventure_Plan/)
 
 </div>
 
