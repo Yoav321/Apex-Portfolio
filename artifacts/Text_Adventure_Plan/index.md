@@ -1,5 +1,6 @@
 ---
-Text Adventure Plan
+layout: default
+title: Text Adventure Plan
 ---
 
 # Text Adventure Plan
