@@ -25,9 +25,9 @@ The image is the score that I got from taking the Number Conversions Knowledge C
 
 ## Skills Demonstrated
 
-<span class="skill-tag">Understanding of binary,</span>
-<span class="skill-tag">Understanding of Hex,</span>
-<span class="skill-tag">Understanding of conversions.</span>
+<span class="skill-tag">Understanding of binary</span>
+<span class="skill-tag">Understanding of Hex</span>
+<span class="skill-tag">Understanding of conversions</span>
 
 ## What I Learned
 

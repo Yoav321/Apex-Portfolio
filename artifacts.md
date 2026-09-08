@@ -57,9 +57,9 @@ This artifact is a test of my knowledge as a student and my ability to convert n
 
 **Skills demonstrated:**
 
-<span class="skill-tag">Understanding of binary,</span>
-<span class="skill-tag">Understanding of Hex,</span>
-<span class="skill-tag">Understanding of conversions.</span>
+<span class="skill-tag">Understanding of binary</span>
+<span class="skill-tag">Understanding of Hex</span>
+<span class="skill-tag">Understanding of conversions</span>
 
 [View Artifact](artifacts/Knowledge_Check_Number_Conversions/)
 
