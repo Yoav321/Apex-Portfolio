@@ -27,9 +27,8 @@ This artifact is a plan for a interactive text adventure. The context in which i
 
 ## Skills Demonstrated
 
-<span class="skill-tag">Understanding in the use of more than one function, </span>
-<span class="skill-tag">understanding in the use of basic python commands, </span>
-<span class="skill-tag">and the ability to create ideas and implement them when needed.</span>
+<span class="skill-tag">Flow Charts</span>
+<span class="skill-tag">Concept development</span>
 
 ## Tools and Technologies
 
