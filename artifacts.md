@@ -35,7 +35,6 @@ Each artifact demonstrates technical skills, problem-solving, communication, col
 <p class="artifact-meta">text adventure | September 2026</p>
 
 I created an interactive text adventure where the user has to choose between getting revenge or forgiving their best friend. The user starts in a burning house and has to remember things to progress in the story. 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
 
 **Skills demonstrated:**
 
