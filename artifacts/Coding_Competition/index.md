@@ -17,20 +17,15 @@ title: Coding Competition
 
 ## Coding Competition 1
 
-[Embed or link the actual artifact here.]
+<p class="artifact-meta"> Code | September 2026</p>
 
-Examples:
+## Summary
 
-- Image or screenshot
-- PDF
-- GitHub repository
-- Program or interactive experience
-- Video demonstration
-- Network diagram
-- Technical document
-- Prototype photos
+[Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
 
-![Description of artifact](ARTIFACT-IMAGE.png)
+**Project:** Coding Competition 1
+
+**My role:** I completed 3 individual problems and then I worked with a team to complete the rest of the competition questions.
 
 [View the full artifact](LINK-TO-ARTIFACT)
 
@@ -38,11 +33,11 @@ Examples:
 
 <span class="skill-tag">Communication</span>
 <span class="skill-tag">Collaboration</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Problem Solving</span>
 
 ## What I Learned
 
-[Describe what you learned technically or professionally and what you would do differently next time.]
+Something that I learned in the competition is that it is better to skip questions and come back to them rather than to get stuck on something. 
 
 ## Coding Competition 2
 
@@ -54,7 +49,7 @@ Examples:
 
 **Project:** Coding Competition 2
 
-**My role:** I completed 3 individual problems and then I worked with a team to complete the rest of the competition.
+**My role:** I completed 3 individual problems and then I worked with a team to complete the rest of the competition questions.
 
 [Embed or link the actual artifact here.]
 
@@ -65,7 +60,7 @@ Examples:
 
 <span class="skill-tag">Communication</span>
 <span class="skill-tag">Collaboration</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Problem Solving</span>
 
 
 ## What I Learned
