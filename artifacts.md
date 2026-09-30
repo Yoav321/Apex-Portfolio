@@ -94,7 +94,7 @@ This artifact is a coding competition. We did this to test our knowledge of the 
 <span class="skill-tag">Collaboration</span>
 <span class="skill-tag">Problem Solving</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Coding_Competition/)
 
 
 ---
@@ -109,7 +109,7 @@ This artifact is a coding competition. We did this to test our knowledge of the 
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/Coding_Competition/)
+[View Artifact](artifacts/ARTIFACT-FOLDER/)
 
 ---
 
