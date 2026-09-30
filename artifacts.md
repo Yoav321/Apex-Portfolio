@@ -109,7 +109,7 @@ This artifact is a coding competition. We did this to test our knowledge of the 
 <span class="skill-tag">[Skill]</span>
 <span class="skill-tag">[Skill]</span>
 
-[View Artifact](artifacts/ARTIFACT-FOLDER/)
+[View Artifact](artifacts/Coding_Competition/)
 
 ---
 
