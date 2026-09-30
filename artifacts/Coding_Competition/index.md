@@ -21,7 +21,7 @@ title: Coding Competition
 
 ## Summary
 
-[Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
+This artifact is a coding competition. We did this to test our knowledge of the python commands that we were taught so far.
 
 **Project:** Coding Competition 1
 
@@ -45,7 +45,7 @@ Something that I learned in the competition is that it is better to skip questio
 
 ## Summary
 
-[Write a short paragraph explaining what this artifact is and the context in which it was created. Include the larger project or challenge when relevant.]
+This artifact is a coding competition. We did this to test our knowledge of the python commands that we were taught so far.
 
 **Project:** Coding Competition 2
 
@@ -65,7 +65,7 @@ Something that I learned in the competition is that it is better to skip questio
 
 ## What I Learned
 
-Something that I learned is that working in a group of your friends doesn't mean that you will do good. Sometimes it will mean that you will do even worse. I learned that when you are solving polynomials you can use the discrimaninante to see if the equation has a real root or not.
+Something that I learned is that working in a group of your friends doesn't mean that you will do good. Sometimes it will mean that you will do even worse. I learned that when you are solving polynomials you can use the discriminant to see if the equation has a real root or not.
 
 
 ---

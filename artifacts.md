@@ -83,15 +83,16 @@ This artifact is a plan for a interactive text adventure. The context in which i
 
 ---
 
-## [Artifact Name]
-<p class="artifact-meta">[Type of Artifact] | [Month Year]</p>
+## Coding Competition
+<p class="artifact-meta"> Coding Competition | September 2026</p>
 
-[Write a short 2–3 sentence description of the artifact. Explain what you created, investigated, designed, configured, or solved.]
+This artifact is a coding competition. We did this to test our knowledge of the python commands that we were taught so far.
 
 **Skills demonstrated:**
 
-<span class="skill-tag">[Skill]</span>
-<span class="skill-tag">[Skill]</span>
+<span class="skill-tag">Communication</span>
+<span class="skill-tag">Collaboration</span>
+<span class="skill-tag">Problem Solving</span>
 
 [View Artifact](artifacts/ARTIFACT-FOLDER/)
 
